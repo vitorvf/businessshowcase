@@ -59,7 +59,7 @@ function App() {
               <ul class="navbar-nav">
                 <li class="nav-item">
                   <a class="nav-link active" aria-current="page" href="#">
-                    Pagina iniciala
+                    Pagina Inicial
                   </a>
                 </li>
                 <li class="nav-item">
@@ -75,7 +75,7 @@ function App() {
 
                 <li class="nav-item">
                   <a class="nav-link" href="#">
-                    portifolio
+                    portfolio
                   </a>
                 </li>
 
@@ -100,7 +100,7 @@ function App() {
                 href="#"
                 class="button btn btn-primary button-primary d-md-inline-block d-block mb-md-0 mb-2 mr-md-2"
               >
-                Saiba maisa
+                Saiba mais
               </a>
               <a
                 href="#"
